@@ -36,8 +36,8 @@ $number_tiles: 3;
    }
    
     li:nth-child(4) button{
-      background-color: map-get($colors, bgIris);
-      color: white;
+      background-color: map-get($colors, bgApricot);
+      color: black;
    }
    li:nth-child(5) button{
       background-color: map-get($colors, bgTeal);
@@ -45,8 +45,8 @@ $number_tiles: 3;
    }
    
     li:nth-child(6) button{
-      background-color: map-get($colors, bgApricot);
-      color: black;
+      background-color: map-get($colors, bgIris);
+      color: white;
    }
 
    p{
