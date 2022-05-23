@@ -31,4 +31,34 @@ button {
   display: inline-flex;
   height: 33.3333333333vmin;
   width: 33.3333333333vmin;
+}
+.tiles-container li:nth-child(1) button {
+  background-color: #453878;
+  color: white;
+}
+.tiles-container li:nth-child(2) button {
+  background-color: #cacad3;
+  color: black;
+}
+.tiles-container li:nth-child(3) button {
+  background-color: #1fab7a;
+  color: black;
+}
+.tiles-container li:nth-child(4) button {
+  background-color: #FFB762;
+  color: black;
+}
+.tiles-container li:nth-child(5) button {
+  background-color: #007373;
+  color: white;
+}
+.tiles-container li:nth-child(6) button {
+  background-color: #6154c7;
+  color: white;
+}
+.tiles-container p {
+  margin: 1rem;
+}
+.tiles-container button.close-btn {
+  margin: 1rem;
 }/*# sourceMappingURL=style.css.map */
