@@ -1,0 +1,59 @@
+{
+   "tiles": [
+      {
+         "title": "Button 1",
+         "text": "Lorem ipsum 1",
+         "img": "assets/imgs/icon1.svg",
+         "horizontal_span": 2,
+         "vertical_span": 1,
+         "horizontal_dir": "right",
+         "vertical_dir": "down"
+      },
+      {
+         "title": "Button 2",
+         "text": "Lorem ipsum 2",
+         "img": "assets/imgs/icon2.svg",
+         "horizontal_span": 2,
+         "vertical_span": 2,
+         "horizontal_dir": "right",
+         "vertical_dir": "down"
+      },
+      {
+         "title": "Button 3",
+         "text": "Lorem ipsum 3",
+         "img": "assets/imgs/icon3.svg",
+         "horizontal_span": 2,
+         "vertical_span": 1,
+         "horizontal_dir": "left",
+         "vertical_dir": "down"
+      },
+      {
+         "title": "Button 4",
+         "text": "Lorem ipsum 4",
+         "img": "assets/imgs/icon4.svg",
+         "horizontal_span": 2,
+         "vertical_span": 1,
+         "horizontal_dir": "right",
+         "vertical_dir": "up"
+      },
+      {
+         "title": "Button 5",
+         "text": "Lorem ipsum 5",
+         "img": "assets/imgs/icon5.svg",
+         "horizontal_span": 2,
+         "vertical_span": 2,
+         "horizontal_dir": "right",
+         "vertical_dir": "up"
+      },
+      {
+         "title": "Button 6",
+         "text": "Lorem ipsum 6",
+         "img": "assets/imgs/icon6.svg",
+         "horizontal_span": 1,
+         "vertical_span": 2,
+         "horizontal_dir": "left",
+         "vertical_dir": "up"
+      }
+   ],
+   "version": "1.0"
+}
